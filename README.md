@@ -1,21 +1,21 @@
 ## Hi there! 👋
 
-I'm **Md. Sibgatur Rahman Efti**, a passionate **CSE Undergrad** at CUET specializing in **Purple Teaming**. I'm excited about merging development with cybersecurity and continuously learning to enhance my skills!
+I'm **Md. Sibgatur Rahman Efti**, a passionate Computer Science undergraduate at CUET. I specialize in Purple Teaming and cybersecurity, striving to bridge the gap between offensive and defensive security practices.
 
 ## About Me
 
-As a **Computer Science** undergrad at **CUET**, I am deeply interested in cybersecurity, specifically focusing on Purple Teaming methodologies. I am motivated to bridge the gap between offensive and defensive security practices. While I'm currently not associated with any company, I am open to learning opportunities and collaborations to further my expertise.
+I'm currently studying at CUET and focusing on cybersecurity. My passion lies in understanding how systems can be breached and how to defend against those breaches. I believe in the importance of continuous learning and hands-on experience in technology.
 
 ## Skills & Technologies
 
-django,html,css,java,git,github,nodejs,aws,linux,bash,c,cpp,docker,kali,latex,postman,php,py,vscode
+java,html,css,docker,git,github,java,bash,c,cpp,django,kali,latex,linux,mysql,php,postman,powershell,py,vscode
 
 ## GitHub Stats
 
-Here's a quick overview of my GitHub stats:
+Here are some of my GitHub stats:
+
+- **Public Repositories:** 14
+- **Followers:** 13
+- **Following:** 12
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efti74&show_icons=true&theme=radical)
-
-## Connect with Me
-
-{"facebook":"https://www.facebook.com/Sibgu.74","linkedin":"https://www.linkedin.com/in/md-sibgatur-rahman-efti-861b67207/"}
