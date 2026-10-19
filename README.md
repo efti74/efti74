@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace this banner URL with a custom image in your repository if you make one. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:07111F,45:0B3D4F,100:00D9A6&amp;height=220&amp;section=header&amp;text=Md.%20Sibgatur%20Rahman%20Efti&amp;fontSize=34&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Cybersecurity%20%7C%20Security%20Research%20%7C%20Python%20%26%20Linux&amp;descAlignY=55&amp;descSize=16" width="100%" alt="Profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:07111F,100:00D9A6&amp;height=220&amp;section=header&amp;text=Efti&amp;fontColor=FFFFFF" width="100%" alt="Profile banner" />
 
 <a href="https://github.com/efti74">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=2800&amp;pause=800&amp;color=00D9A6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Cybersecurity+Learner+%26+Builder;Blue+Team+%7C+Red+Team+%7C+Security+Research;Automating+recon+with+Python%2C+Bash+%26+Linux;Learning+to+make+security+more+explainable" alt="Animated introduction" />
